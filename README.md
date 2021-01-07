@@ -1,4 +1,4 @@
-# Tipsy
+# Tippy
 
 easy calculator to help you calculate how much each of you have to pay, when you share the bills among friends.
 
